@@ -10,7 +10,7 @@ Affiche automatiquement ce que vous lisez sur [SushiScan.net](https://sushiscan.
 ## 📌 Fonctionnalités
 
 - Détecte automatiquement le manga et la page en cours sur SushiScan.
-- Affiche le titre et le numéro de page dans Discord Rich Presence.
+- Affiche le titre et le numéro de page dans Discord.
 - S'actualise automatiquement à chaque changement de page.
 - Mise à jour du status en temps **réel**.
 
