@@ -25,8 +25,7 @@ Affiche automatiquement ce que vous lisez sur [SushiScan.net](https://sushiscan.
 
 ### 2. Installation de l'extension
 
-1. Télécharge le dossier de l'extension via ce dépôt :
-   - `Code` → `Download ZIP`
+1. Télécharge le dossier de l'extension via le coin release :
    - Décompresse le ZIP.
    - Tu trouveras à l'intérieur un dossier **js** et **"SushiScanDiscord.exe"**
 
