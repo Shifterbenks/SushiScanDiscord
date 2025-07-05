@@ -1,5 +1,6 @@
 # SushiScanDiscord
-![sushiscan-dark](https://github.com/user-attachments/assets/7be826b0-aee0-4353-b0d3-2745b58717a8)
+![sushiscan-dark](https://github.com/user-attachments/assets/e4438711-c1aa-4e55-a3aa-3d27630ad851)
+
 
 # 🍣 SushiScan Discord Rich Presence
 
